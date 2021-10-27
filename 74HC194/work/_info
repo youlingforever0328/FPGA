@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA-Project/74LVC161
+vS_74HC194
+Z0 !s110 1591281223
+!i10b 1
+!s100 j>YP]DIcDi7BK>b^J>HJ:0
+IY9Ze2ISiOX:JOhP1Gm0SZ2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA-Project/74HC194
+w1591272662
+8D:/FPGA-Project/74HC194/74HC194.v
+FD:/FPGA-Project/74HC194/74HC194.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1591281223.000000
+!s107 D:/FPGA-Project/74HC194/74HC194.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA-Project/74HC194/74HC194.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@s_74@h@c194
+vS_74HC194_test
+R0
+!i10b 1
+!s100 52T=P3T_E;<CLXIWN`Lci3
+IL`zzA:l:QhYi4dRf=`Mk71
+R1
+R2
+w1591281222
+8D:/FPGA-Project/74HC194/74HC194_test.v
+FD:/FPGA-Project/74HC194/74HC194_test.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA-Project/74HC194/74HC194_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA-Project/74HC194/74HC194_test.v|
+!i113 1
+R5
+R6
+n@s_74@h@c194_test

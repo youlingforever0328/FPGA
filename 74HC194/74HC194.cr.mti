@@ -1,0 +1,15 @@
+D:/FPGA-Project/74HC194/74HC194_test.v {1 {vlog -work work -stats=none D:/FPGA-Project/74HC194/74HC194_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module S_74HC194_test
+
+Top level modules:
+	S_74HC194_test
+
+} {} {}} D:/FPGA-Project/74HC194/74HC194.v {1 {vlog -work work -stats=none D:/FPGA-Project/74HC194/74HC194.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module S_74HC194
+
+Top level modules:
+	S_74HC194
+
+} {} {}}

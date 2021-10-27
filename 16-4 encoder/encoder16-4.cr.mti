@@ -1,0 +1,16 @@
+{D:/FPGA-Project/16-4 encoder/encoder16-4.v} {1 {vlog -work work -stats=none {D:/FPGA-Project/16-4 encoder/encoder16-4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CD4532
+-- Compiling module encoder16_4
+
+Top level modules:
+	encoder16_4
+
+} {} {}} {D:/FPGA-Project/16-4 encoder/encoder16_4_test.v} {1 {vlog -work work -stats=none {D:/FPGA-Project/16-4 encoder/encoder16_4_test.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module encoder16_4_test
+
+Top level modules:
+	encoder16_4_test
+
+} {} {}}

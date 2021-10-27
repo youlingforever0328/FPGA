@@ -1,0 +1,181 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA-Project/16-compare
+vb_24
+Z0 !s110 1591696434
+!i10b 1
+!s100 oDF3eZ1?9>JRWQhkk6Q`B3
+I97SKXN]G2zT66[K[P92B;2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA-Project/basketball24
+w1591696432
+8D:/FPGA-Project/basketball24/b_24.v
+FD:/FPGA-Project/basketball24/b_24.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1591696434.000000
+Z5 !s107 74HC4511.v|D:/FPGA-Project/basketball24/b_24.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA-Project/basketball24/b_24.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vb_24_test
+R0
+!i10b 1
+!s100 O<2LzZDe6zb:1]JR3==W52
+I:Q8S76:Y2HLLgcha;zH3C1
+R1
+R2
+w1591682846
+8D:/FPGA-Project/basketball24/b_24_test.v
+FD:/FPGA-Project/basketball24/b_24_test.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA-Project/basketball24/b_24_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA-Project/basketball24/b_24_test.v|
+!i113 1
+R7
+R8
+vC_24
+R0
+!i10b 1
+!s100 U>[zVKo>]@S:cm1Iol[033
+I9_@fh>2VP3F9;oc_zSzcA2
+R1
+R2
+w1591667495
+8D:/FPGA-Project/basketball24/24jishu.v
+FD:/FPGA-Project/basketball24/24jishu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA-Project/basketball24/24jishu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA-Project/basketball24/24jishu.v|
+!i113 1
+R7
+R8
+n@c_24
+vC_24_test
+R0
+!i10b 1
+!s100 <GS6z<0BR`]Mb6HOTSMmk3
+I4JX4WSXSlZSc5CYc5US[10
+R1
+R2
+w1591669686
+8D:/FPGA-Project/basketball24/24jishu_test.v
+FD:/FPGA-Project/basketball24/24jishu_test.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA-Project/basketball24/24jishu_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA-Project/basketball24/24jishu_test.v|
+!i113 1
+R7
+R8
+n@c_24_test
+vC_74LVC161
+!s110 1591636711
+!i10b 1
+!s100 C^]92DXVg@S<5nQe2gWc23
+ILHfGjFaM63j;lF`KECL];2
+R1
+R2
+w1591636515
+Z9 8D:/FPGA-Project/basketball24/c_falling.v
+Z10 FD:/FPGA-Project/basketball24/c_falling.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1591636711.000000
+Z11 !s107 D:/FPGA-Project/basketball24/c_falling.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA-Project/basketball24/c_falling.v|
+!i113 1
+R7
+R8
+n@c_74@l@v@c161
+vc_falling
+Z13 !s110 1591696433
+!i10b 1
+!s100 [nhV[HXT<nDBMRd;0fPan2
+I<=z[8V1Ef?SfNiT2OC@;H3
+R1
+R2
+w1591696404
+R9
+R10
+L0 1
+R3
+r1
+!s85 0
+31
+Z14 !s108 1591696433.000000
+R11
+R12
+!i113 1
+R7
+R8
+vc_falling_test
+R13
+!i10b 1
+!s100 A[>08bZD<ETA^RS?NYz;l1
+I^h]1Im?FkPiaV]I`Kkj]G3
+R1
+R2
+w1591666406
+8D:/FPGA-Project/basketball24/c_falling_test.v
+FD:/FPGA-Project/basketball24/c_falling_test.v
+L0 1
+R3
+r1
+!s85 0
+31
+R14
+!s107 D:/FPGA-Project/basketball24/c_falling_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA-Project/basketball24/c_falling_test.v|
+!i113 1
+R7
+R8
+vseg7_decoder
+R0
+!i10b 1
+!s100 Ldd0_i:?2;9]];4QkTgBk2
+ID<lJAi?S<[3f7zezYTUmb1
+R1
+R2
+w1591532800
+874HC4511.v
+F74HC4511.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8

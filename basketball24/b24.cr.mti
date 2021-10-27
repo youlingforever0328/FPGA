@@ -1,0 +1,44 @@
+D:/FPGA-Project/basketball24/24jishu_test.v {1 {vlog -work work -stats=none D:/FPGA-Project/basketball24/24jishu_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module C_24_test
+
+Top level modules:
+	C_24_test
+
+} {} {}} D:/FPGA-Project/basketball24/24jishu.v {1 {vlog -work work -stats=none D:/FPGA-Project/basketball24/24jishu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module C_24
+
+Top level modules:
+	C_24
+
+} {} {}} D:/FPGA-Project/basketball24/c_falling_test.v {1 {vlog -work work -stats=none D:/FPGA-Project/basketball24/c_falling_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module c_falling_test
+
+Top level modules:
+	c_falling_test
+
+} {} {}} D:/FPGA-Project/basketball24/b_24_test.v {1 {vlog -work work -stats=none D:/FPGA-Project/basketball24/b_24_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module b_24_test
+
+Top level modules:
+	b_24_test
+
+} {} {}} D:/FPGA-Project/basketball24/b_24.v {1 {vlog -work work -stats=none D:/FPGA-Project/basketball24/b_24.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module seg7_decoder
+-- Compiling module b_24
+
+Top level modules:
+	b_24
+
+} {} {}} D:/FPGA-Project/basketball24/c_falling.v {1 {vlog -work work -stats=none D:/FPGA-Project/basketball24/c_falling.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module c_falling
+
+Top level modules:
+	c_falling
+
+} {} {}}

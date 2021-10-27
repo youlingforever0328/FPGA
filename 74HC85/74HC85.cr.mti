@@ -1,0 +1,15 @@
+D:/FPGA-Project/74HC85/74HC85_test.v {1 {vlog -work work -stats=none D:/FPGA-Project/74HC85/74HC85_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module comp_test
+
+Top level modules:
+	comp_test
+
+} {} {}} D:/FPGA-Project/74HC85/74HC85.v {1 {vlog -work work -stats=none D:/FPGA-Project/74HC85/74HC85.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module comp
+
+Top level modules:
+	comp
+
+} {} {}}

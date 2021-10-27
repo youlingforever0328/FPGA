@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA-Project/16-1 select
+vcomp
+Z0 !s110 1591632528
+!i10b 1
+!s100 o98adEJhU;Eaa_g`G]_Ak2
+IN585Q>P_nYSdGCZN5LkE21
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA-Project/16-compare
+w1591597746
+874HC85.v
+F74HC85.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1591632528.000000
+Z5 !s107 74HC85.v|D:/FPGA-Project/16-compare/compare_16.v|
+Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA-Project/16-compare/compare_16.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+vcompare_16
+R0
+!i10b 1
+!s100 EMT37fJG5f:9>o=fEb:dZ1
+IIjLL4Ka35XI3iBAlY0eD00
+R1
+R2
+w1591631497
+8D:/FPGA-Project/16-compare/compare_16.v
+FD:/FPGA-Project/16-compare/compare_16.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+R5
+R6
+!i113 1
+R7
+R8
+vcompare_16_test
+R0
+!i10b 1
+!s100 0zEOg0?GJ`[><DGb_[VhK2
+IG9Ek3>^;@=8jhUM55]oz>2
+R1
+R2
+w1591632527
+8D:/FPGA-Project/16-compare/compare_16_test.v
+FD:/FPGA-Project/16-compare/compare_16_test.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/FPGA-Project/16-compare/compare_16_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA-Project/16-compare/compare_16_test.v|
+!i113 1
+R7
+R8

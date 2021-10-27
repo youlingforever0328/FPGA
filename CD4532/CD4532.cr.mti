@@ -1,0 +1,15 @@
+D:/FPGA-Project/CD4532/CD4532_test.v {1 {vlog -work work -stats=none D:/FPGA-Project/CD4532/CD4532_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CD4532_test
+
+Top level modules:
+	CD4532_test
+
+} {} {}} D:/FPGA-Project/CD4532/CD4532.v {1 {vlog -work work -stats=none D:/FPGA-Project/CD4532/CD4532.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CD4532
+
+Top level modules:
+	CD4532
+
+} {} {}}
